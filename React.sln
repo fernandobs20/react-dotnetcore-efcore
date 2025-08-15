@@ -8,6 +8,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3CAF00EF-EEE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProAtividade.API", "back\src\ProAtividade.API\ProAtividade.API.csproj", "{A59A0A9E-60BC-5459-5873-AFB465A54505}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProAtividade.Data", "back\src\ProAtividade.Data\ProAtividade.Data.csproj", "{D0E9616D-35EB-47BE-BB40-F4044D54C18A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProAtividade.Domain", "back\src\ProAtividade.Domain\ProAtividade.Domain.csproj", "{1528F4A0-F872-4D71-A2F4-1AA8E4DED2DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +22,14 @@ Global
 		{A59A0A9E-60BC-5459-5873-AFB465A54505}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A59A0A9E-60BC-5459-5873-AFB465A54505}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A59A0A9E-60BC-5459-5873-AFB465A54505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0E9616D-35EB-47BE-BB40-F4044D54C18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E9616D-35EB-47BE-BB40-F4044D54C18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E9616D-35EB-47BE-BB40-F4044D54C18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E9616D-35EB-47BE-BB40-F4044D54C18A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1528F4A0-F872-4D71-A2F4-1AA8E4DED2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1528F4A0-F872-4D71-A2F4-1AA8E4DED2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1528F4A0-F872-4D71-A2F4-1AA8E4DED2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1528F4A0-F872-4D71-A2F4-1AA8E4DED2DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

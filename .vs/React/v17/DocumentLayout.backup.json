@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fernando\\Cursos\\Udemy\\React\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E9616D-35EB-47BE-BB40-F4044D54C18A}|back\\src\\ProAtividade.Data\\ProAtividade.Data.csproj|d:\\fernando\\cursos\\udemy\\react\\back\\src\\proatividade.data\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E9616D-35EB-47BE-BB40-F4044D54C18A}|back\\src\\ProAtividade.Data\\ProAtividade.Data.csproj|solutionrelative:back\\src\\proatividade.data\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Fernando\\Cursos\\Udemy\\React\\back\\src\\ProAtividade.Data\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "back\\src\\ProAtividade.Data\\Context\\DataContext.cs",
+              "ToolTip": "D:\\Fernando\\Cursos\\Udemy\\React\\back\\src\\ProAtividade.Data\\Context\\DataContext.cs",
+              "RelativeToolTip": "back\\src\\ProAtividade.Data\\Context\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:11:44.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

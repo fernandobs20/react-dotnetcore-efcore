@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\back",
+    "\\back\\src",
+    "\\back\\src\\ProAtividade.API\\Controllers",
+    "\\back\\src\\ProAtividade.Domain\\Entities",
+    "\\back\\src\\ProAtividade.Domain\\Interfaces",
+    "\\back\\src\\ProAtividade.Domain\\Interfaces\\Repositories"
+  ],
+  "SelectedNode": "\\back\\src\\ProAtividade.sln",
+  "PreviewInSolutionExplorer": false
+}
